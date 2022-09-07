@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Colt-M1873&theme=synthwave&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Colt-M1873&theme=synthwave&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&hide=issues&line_height=0.8" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colt-M1873&theme=synthwave&layout=compact&card_width=0.8" />
@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 [![Colt-M1873 github activity graph](https://activity-graph.herokuapp.com/graph?username=Colt-M1873&theme=github-light)](https://github.com/Colt-M1873/) 
 maybe synthwave'84 theme with a cool avatar will create a better visual effect
 -->
+
+[![Colt-M1873 github activity graph](https://activity-graph.herokuapp.com/graph?username=Colt-M1873&theme=synthwave-84)](https://github.com/Colt-M1873/) 
+
 
 [![Colt-M1873's github activity graph](https://activity-graph.herokuapp.com/graph?username=Colt-M1873&bg_color=ffffff&color=5d7899&line=4c9e99&point=59799b&area=true&hide_border=true)](https://github.com/Colt-M1873/)
 
