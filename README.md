@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Colt-M1873&theme=synthwave&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&hide=issues&line_height=23" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Colt-M1873&theme=synthwave&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&hide=issues&line_height=24" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colt-M1873&theme=synthwave&layout=compact&card_width=0.9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colt-M1873&theme=synthwave&layout=compact&card_width=10" />
 </a>
 
 
