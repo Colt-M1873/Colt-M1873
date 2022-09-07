@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Colt-M1873 github activity graph](https://activity-graph.herokuapp.com/graph?username=Colt-M1873&theme=react-dark)](https://github.com/Colt-M1873/)
 
-[![Colt-M1873 github activity graph](https://activity-graph.herokuapp.com/graph?username=Colt-M1873&theme=github-light)](https://github.com/Colt-M1873/)
+<!--
+[![Colt-M1873 github activity graph](https://activity-graph.herokuapp.com/graph?username=Colt-M1873&theme=github-light)](https://github.com/Colt-M1873/) 
+maybe synthwave'84 theme with a cool avatar will create a better visual effect
+-->
 
 [![Colt-M1873's github activity graph](https://activity-graph.herokuapp.com/graph?username=Colt-M1873&bg_color=ffffff&color=5d7899&line=4c9e99&point=59799b&area=true&hide_border=true)](https://github.com/Colt-M1873/)
