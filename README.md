@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 
 
 
-![Colt-M1873's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colt-M1873&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colt-M1873)](https://github.com/anuraghazra/github-readme-stats)
+![Colt-M1873's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colt-M1873&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colt-M1873&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://raw.githubusercontent.com/Colt-M1873/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Colt-M1873/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-
+![](https://raw.githubusercontent.com/Colt-M1873/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Colt-M1873/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 [![Colt-M1873 github activity graph](https://activity-graph.herokuapp.com/graph?username=Colt-M1873&theme=github-light)](https://github.com/Colt-M1873/) 
