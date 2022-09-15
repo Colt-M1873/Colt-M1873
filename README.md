@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align = center>
-![https://github.com/Colt-M1873/](https://komarev.com/ghpvc/?username=Colt-M1873&color=007bff&label=Profile+Views&style=for-the-badge)
+<div align = "center">
+![](https://komarev.com/ghpvc/?username=Colt-M1873&color=007bff&label=Profile+Views&style=for-the-badge)
 </div>
 
 
