@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 </a>
 
 
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Colt-M1873&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colt-M1873&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+
+
 
 <!--https://github.com/jstrieb/github-stats-->
 
@@ -42,10 +46,7 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/Colt-M1873/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Colt-M1873/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-<!--
-[![Colt-M1873 github activity graph](https://activity-graph.herokuapp.com/graph?username=Colt-M1873&theme=github-light)](https://github.com/Colt-M1873/) 
-maybe synthwave'84 theme with a cool avatar will create a better visual effect
--->
+
 
 
 [![Colt-M1873 github activity graph](https://activity-graph.herokuapp.com/graph?username=Colt-M1873&theme=synthwave-84)](https://github.com/Colt-M1873/) 
