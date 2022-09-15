@@ -37,9 +37,57 @@ Here are some ideas to get you started:
   
 </div>
 
+
+
+
+
+
+
+<!-- <img src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="LeetCode logo" width="70" align="right" /> -->
+
+
+<div align = "right">
+
+<img src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="LeetCode logo" width="70" align="right" />
+    
+</div>
+
+## [<img src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="LeetCode logo" width="25" />](https://leetcode.com/CyberDJ/) Leetcode      
+
+[![LeetCode user CyberDJ](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCyberDJ&logo=leetcode&logoColor=yellow)](https://leetcode.com/CyberDJ/)
+
+mostly using Python&Golang&java
+
+solution blogposts:
+
+
+
+
+<img src="https://ethereum.org/icons/icon-512x512.png?v=8b512faa8d4a0b019c123a771b6622aa" alt="Ethereum org logo" width="90" align="right" />
+
 ## 👨‍💻 Contributed to
 
 [![Ethereum org website](https://github-readme-stats.vercel.app/api/pin/?username=ethereum&repo=ethereum-org-website)](https://github.com/ethereum/ethereum-org-website)
+
+
+<!-- 
+
+translate github profile 3d contrib page
+
+
+## 📰 📝 Recent activity (or blogpost) 
+
+blogpost/translation
+
+show your blogpost here
+
+and your rss3 feed or medium feed
+
+-->
+
+
+
+
 
 ## 📈 Github stats
 
