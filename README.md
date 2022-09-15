@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <!--
 [![Colt-M1873 github activity graph](https://activity-graph.herokuapp.com/graph?username=Colt-M1873&theme=github-light)](https://github.com/Colt-M1873/) 
 maybe synthwave'84 theme with a cool avatar will create a better visual effect
+-->
 
 
 [![Colt-M1873 github activity graph](https://activity-graph.herokuapp.com/graph?username=Colt-M1873&theme=synthwave-84)](https://github.com/Colt-M1873/) 
