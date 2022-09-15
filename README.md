@@ -43,16 +43,14 @@ Here are some ideas to get you started:
 
 
 
-<!-- <img src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="LeetCode logo" width="70" align="right" /> -->
-
 
 <div align = "right">
 
-<img src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="LeetCode logo" width="70" align="right" />
+<img src="./imgs/leetcodeicon75x88.png" alt="LeetCode logo" width="70" align="right" />
     
 </div>
 
-## [<img src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="LeetCode logo" width="25" />](https://leetcode.com/CyberDJ/) Leetcode      
+## [<img src="./imgs/leetcodeicon75x88.png" alt="LeetCode logo" width="25" />](https://leetcode.com/CyberDJ/) Leetcode      
 
 [![LeetCode user CyberDJ](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCyberDJ&logo=leetcode&logoColor=yellow)](https://leetcode.com/CyberDJ/)
 
@@ -63,7 +61,7 @@ solution blogposts:
 
 
 
-<img src="https://ethereum.org/icons/icon-512x512.png?v=8b512faa8d4a0b019c123a771b6622aa" alt="Ethereum org logo" width="90" align="right" />
+<img src="./imgs/ethereumicon125x192.png" alt="Ethereum org logo" width="70" align="right" />
 
 ## 👨‍💻 Contributed to
 
