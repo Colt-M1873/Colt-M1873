@@ -37,6 +37,12 @@ Here are some ideas to get you started:
   
 </div>
 
+## 👨‍💻 Contributed to
+
+[![Ethereum org website](https://github-readme-stats.vercel.app/api/pin/?username=ethereum&repo=ethereum-org-website)](https://github.com/ethereum/ethereum-org-website)
+
+## 📈 Github stats
+
 
 <!--
 ![Colt-M1873's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colt-M1873&theme=vue)
