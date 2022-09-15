@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p align = center>
-![https://github.com/Colt-M1873/](https://komarev.com/ghpvc/?username=Colt-M1873&color=007bff&label=Profile+Views&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Colt-M1873&color=007bff&label=Profile+Views&style=for-the-badge)
 </p>
 
 
