@@ -24,18 +24,16 @@ Here are some ideas to get you started:
 ![Colt-M1873's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colt-M1873&theme=vue&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colt-M1873&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+<!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Colt-M1873&theme=synthwave&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&hide=issues&line_height=24" />
 </a><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colt-M1873&theme=synthwave&layout=compact&card_width=10" />
 </a>
+ -->
 
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Colt-M1873&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&card_width=400" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colt-M1873&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&card_width=500" />
-
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Colt-M1873&theme=synthwave&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colt-M1873&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=synthwave" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Colt-M1873&theme=synthwave&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colt-M1873&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=synthwave&theme=graywhite" />
 
 
 
