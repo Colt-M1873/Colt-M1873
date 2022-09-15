@@ -17,7 +17,24 @@ Here are some ideas to get you started:
 -->
 
 <div align = "center">
+  
 ![](https://komarev.com/ghpvc/?username=Colt-M1873&color=007bff&label=Profile+Views&style=for-the-badge)
+  
+![](https://komarev.com/ghpvc/?username=Colt-M1873&style=flat-square)
+  
+![](https://komarev.com/ghpvc/?username=Colt-M1873&style=flat-square&color=ff69b4)
+  
+![](https://komarev.com/ghpvc/?username=Colt-M1873&style=flat)
+  
+![](https://komarev.com/ghpvc/?username=Colt-M1873&style=plastic)
+  
+![](https://komarev.com/ghpvc/?username=Colt-M1873&style=for-the-badg)
+  
+![](https://komarev.com/ghpvc/?username=Colt-M1873&style=for-the-badge&color=ff69b4)
+  
+  
+
+  
 </div>
 
 
