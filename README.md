@@ -52,16 +52,22 @@ Here are some ideas to get you started:
 
 ## [<img src="./imgs/leetcodeicon75x88.png" alt="LeetCode logo" width="25" />](https://leetcode.com/CyberDJ/) Leetcode      
 
-[![LeetCode user CyberDJ](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCyberDJ&logo=leetcode&logoColor=yellow)](https://leetcode.com/CyberDJ/)
+[![LeetCode user CyberDJ](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCyberDJ&logo=leetcode&logoColor=yellow)](https://leetcode.com/CyberDJ/) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-mostly using Python&Golang&java
+<div align = "left">  
 
-solution blogposts:
+[<img src="./imgs/metrics.plugin.leetcode.svg" alt="LeetCode status by metrics" align="left" />](https://leetcode.com/CyberDJ/) <br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
+
+</div>
 
 
+<div align = "left">
 
+<img src="./imgs/ethereumicon125x192.png" alt="Ethereum org logo" width="70" align="right" />  
+    
+</div>
 
-<img src="./imgs/ethereumicon125x192.png" alt="Ethereum org logo" width="70" align="right" />
 
 ## 👨‍💻 Contributed to
 
