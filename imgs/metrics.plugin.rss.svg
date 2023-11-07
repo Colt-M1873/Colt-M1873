@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Racket branch of Chez Scheme merging with mainline Chez Scheme</div>
+                                <div class="title">New models and developer products</div>
                                 <div class="date">6 Nov 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nrsc5: Receive NRSC-5 digital radio stations using an RTL-SDR dongle</div>
+                                <div class="title">The coolest robot I've ever built</div>
                                 <div class="date">6 Nov 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">milliForth</div>
-                                <div class="date">6 Nov 2023</div>
+                                <div class="title">PostgreSQL Encryption: The Available Options</div>
+                                <div class="date">7 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Drunk grizzlies keep getting hit by trains in Montana</div>
-                                <div class="date">5 Nov 2023</div>
+                                <div class="title">WeWork Goes Bankrupt</div>
+                                <div class="date">7 Nov 2023</div>
                             </div>
                         </div>
                     </section>
