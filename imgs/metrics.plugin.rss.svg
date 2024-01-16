@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why the M2 is more advanced that it seemed</div>
-                                <div class="date">15 Jan 2024</div>
+                                <div class="title">Modeless Vim</div>
+                                <div class="date">16 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Penrose – Create diagrams by typing notation in plain text</div>
-                                <div class="date">12 Jan 2024</div>
+                                <div class="title">Lichee Console 4A – RISC-V mini laptop: Review, benchmarks and early issues</div>
+                                <div class="date">16 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">When Random Isn't</div>
-                                <div class="date">14 Jan 2024</div>
+                                <div class="title">We switched to Java 21 virtual threads and got a deadlock in TPC-C for Postgres</div>
+                                <div class="date">16 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Git Branches as a Social Construct</div>
+                                <div class="title">Venice's Secret Service</div>
                                 <div class="date">15 Jan 2024</div>
                             </div>
                         </div>
