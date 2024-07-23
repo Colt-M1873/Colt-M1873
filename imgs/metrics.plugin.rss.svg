@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Parse, Don't Validate</div>
-                                <div class="date">22 Jul 2024</div>
+                                <div class="title">Database Design for Google Calendar: A Tutorial</div>
+                                <div class="date">23 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Jiff: A brand new Datetime library for Rust, from the author of ripgrep</div>
-                                <div class="date">22 Jul 2024</div>
+                                <div class="title">Storing UTC is not a silver bullet (2019)</div>
+                                <div class="date">23 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to Become a Registrar</div>
-                                <div class="date">22 Jul 2024</div>
+                                <div class="title">The Linux audio stack demystified (and more)</div>
+                                <div class="date">23 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">rrweb – record and replay debugger for the web</div>
+                                <div class="title">Kawaii – A Keychain-Sized Nintendo Wii</div>
                                 <div class="date">22 Jul 2024</div>
                             </div>
                         </div>
