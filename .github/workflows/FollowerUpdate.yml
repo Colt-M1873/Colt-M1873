@@ -13,14 +13,6 @@ jobs:
           fetch-depth: 0
       - run: pwd
       - run: ls
-      - run: rm -rf imgs
-      - run: rm -rf all.png
-      - run: rm -rf followers.json
-      - run: rm -rf imgs.py
-      - run: rm -rf requirements.txt
-      - run: cd ./followers_update
-      - run: pwd
-      - run: ls
       
       - name: Generate Image
         working-directory: ./followers_update
