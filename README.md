@@ -125,12 +125,9 @@ and your rss3 feed or medium feed
 -->
 
 
-## ✨ Followers
+## 🌏 Followers
 
-<div align = "left">
+<img src="./followers_update/all.png" alt="Followers" width="50%" align="left" />  
 
-<img src="./all.png" alt="Followers" width="50%" align="left" />  
-    
-</div>
-
-**Best Wishes**
+**Thank you for following.**
+**Best Wishes**✨
