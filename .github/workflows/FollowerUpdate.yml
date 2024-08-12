@@ -1,0 +1,27 @@
+name: Update
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 20 * * *'
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - run: pip install -r requirements.txt
+      - name: Generate Image
+        run: python imgs.py
+        env:
+          USER: ${{ github.actor }}
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit files
+        run: |
+          git config user.name Colt-M1873
+          git config user.email gitfollowerupdate@test.com
+          git reset "HEAD^"
+          git add .
+          git commit -m "Update followers image" -a
+          git push -f
