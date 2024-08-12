@@ -18,7 +18,7 @@ jobs:
       - run: rm -rf followers.json
       - run: rm -rf imgs.py
       - run: rm -rf requirements.txt
-      - run: cd followers_update
+      - run: cd ./followers_update
       - run: pwd
       - run: ls
       
