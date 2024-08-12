@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <div align = "left">
 
-<img src="./imgs/ethereumicon125x192.png" alt="Ethereum org logo" width="70" align="right" />  
+<img src="./imgs/ethereumicon192x192.png" alt="Ethereum org logo" width="70" align="right" />  
     
 </div>
 
