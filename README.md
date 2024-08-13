@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <div align = "left">  
 
 [<img src="./imgs/metrics.plugin.leetcode.svg" alt="LeetCode status by metrics" align="left" />](https://leetcode.com/CyberDJ/) <br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 </div>
 
