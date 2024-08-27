@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Removing stuff is never obvious yet often better</div>
-                                <div class="date">26 Aug 2024</div>
+                                <div class="title">Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V</div>
+                                <div class="date">27 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Avante.nvim: Use Your Neovim Like Using Cursor AI IDE</div>
-                                <div class="date">26 Aug 2024</div>
+                                <div class="title">Notes on Buttondown.com</div>
+                                <div class="date">27 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Database "sharding" came from Ultima Online? (2009)</div>
+                                <div class="title">Ruby in Jupyter Notebook</div>
                                 <div class="date">25 Aug 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How WW2 bombs across the Pacific are found and destroyed, decades after war</div>
-                                <div class="date">21 Aug 2024</div>
+                                <div class="title">FreeBSD-rustdate, a reimplementation of FreeBSD-update</div>
+                                <div class="date">27 Aug 2024</div>
                             </div>
                         </div>
                     </section>
