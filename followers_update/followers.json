@@ -134,7 +134,7 @@
     {
         "login": "developernaimul",
         "name": "Developer Naimul",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/83422055?u=1a85206202a7a331306dd49fef4b2bdf91268f27&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83422055?u=4143568dfd52ed2f5a8cc211bec6cb70fe57c4f6&v=4",
         "url": "https://github.com/developernaimul"
     },
     {
@@ -562,5 +562,11 @@
         "name": "Lead / Senior Vue.js Developer",
         "avatarUrl": "https://avatars.githubusercontent.com/u/147451557?u=5a128a49fe476c710f44d1da0c89a219d48bf2af&v=4",
         "url": "https://github.com/seniorvuejsdeveloper"
+    },
+    {
+        "login": "samarjitsahoo",
+        "name": "Samarjit Sahoo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/145245473?u=a71f78619c91e557f818685481e6515addeaaaec&v=4",
+        "url": "https://github.com/samarjitsahoo"
     }
 ]
