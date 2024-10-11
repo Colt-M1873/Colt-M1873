@@ -554,7 +554,7 @@
     {
         "login": "mustafacagri",
         "name": "Mustafa \u00c7a\u011fr\u0131 G\u00fcven",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/7488394?u=d6a73086288b20644608a0d1c9ab1d320157cf10&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7488394?u=23fe234eaa1a07c7d0f85efba5db98931d0b98da&v=4",
         "url": "https://github.com/mustafacagri"
     },
     {
@@ -580,5 +580,17 @@
         "name": "John Mwendwa",
         "avatarUrl": "https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4",
         "url": "https://github.com/JohnMwendwa"
+    },
+    {
+        "login": "AhmetSerdarTncy",
+        "name": "Ahmet Serdar TUN\u00c7AY",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/119676106?u=71585a35ba1c0f878d79b27760f292c34310d716&v=4",
+        "url": "https://github.com/AhmetSerdarTncy"
+    },
+    {
+        "login": "H-K-R",
+        "name": "Humayra Khanom Rime",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69351423?u=ea152b854cb50a23bcd4752cf3b6452e612953f8&v=4",
+        "url": "https://github.com/H-K-R"
     }
 ]
