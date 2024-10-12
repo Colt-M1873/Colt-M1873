@@ -570,12 +570,6 @@
         "url": "https://github.com/samarjitsahoo"
     },
     {
-        "login": "hexarch",
-        "name": "hexarch",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/67343604?u=6e609dc7aebb20f600e6f9b600f0252e3dc97769&v=4",
-        "url": "https://github.com/hexarch"
-    },
-    {
         "login": "JohnMwendwa",
         "name": "John Mwendwa",
         "avatarUrl": "https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4",
@@ -592,5 +586,11 @@
         "name": "Humayra Khanom Rime",
         "avatarUrl": "https://avatars.githubusercontent.com/u/69351423?u=ea152b854cb50a23bcd4752cf3b6452e612953f8&v=4",
         "url": "https://github.com/H-K-R"
+    },
+    {
+        "login": "CelaDaniel",
+        "name": "Daniel Cela",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13622306?u=5344fd11527b499a89e21836d75b49a2e75ae588&v=4",
+        "url": "https://github.com/CelaDaniel"
     }
 ]
