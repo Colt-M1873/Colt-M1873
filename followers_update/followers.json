@@ -85,7 +85,7 @@
     },
     {
         "login": "oleandropaiva",
-        "name": "LEANDRO PAIVA",
+        "name": "Leandro Paiva",
         "avatarUrl": "https://avatars.githubusercontent.com/u/91745537?u=53b7d1be51c3882a98e492a2ec4cb04b82e03040&v=4",
         "url": "https://github.com/oleandropaiva"
     },
@@ -592,5 +592,11 @@
         "name": "Daniel Cela",
         "avatarUrl": "https://avatars.githubusercontent.com/u/13622306?u=5344fd11527b499a89e21836d75b49a2e75ae588&v=4",
         "url": "https://github.com/CelaDaniel"
+    },
+    {
+        "login": "lxRbckl",
+        "name": "Alex Arbuckle",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84994842?u=4bf58b2eed90c26612c0031fecffdf8f3a94f5ab&v=4",
+        "url": "https://github.com/lxRbckl"
     }
 ]
