@@ -598,5 +598,17 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/76658836?v=4",
         "url": "https://github.com/krzysztof293"
+    },
+    {
+        "login": "CoreUnitNET",
+        "name": "CoreUnitNET",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/186106612?u=1e7beec02c90cb3fac92288318960379c9e738d6&v=4",
+        "url": "https://github.com/CoreUnitNET"
+    },
+    {
+        "login": "idimetrix",
+        "name": "Dmitry Selikhov",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6536323?u=8bdc3b5ad5ad63a6956ba6890107e8efc6c2d67c&v=4",
+        "url": "https://github.com/idimetrix"
     }
 ]
