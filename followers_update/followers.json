@@ -606,12 +606,6 @@
         "url": "https://github.com/idimetrix"
     },
     {
-        "login": "Tohidkhan6332",
-        "name": "Tohid Khan ",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/113549923?u=b4c0039963dc9859f336d84b8b7be8ca79e5ce4d&v=4",
-        "url": "https://github.com/Tohidkhan6332"
-    },
-    {
         "login": "shahradelahi",
         "name": "Shahrad Elahi",
         "avatarUrl": "https://avatars.githubusercontent.com/u/17948260?u=645426fcb89823f26554bd437177e82d7a2f6b93&v=4",
@@ -664,5 +658,23 @@
         "name": "Kimiya",
         "avatarUrl": "https://avatars.githubusercontent.com/u/161105008?u=1c456e4ccc4395996ea675da9b34467325ae73f2&v=4",
         "url": "https://github.com/Kiimmiiya"
+    },
+    {
+        "login": "alieeahmadi08",
+        "name": "Ali Ahmadi",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/169368119?u=27d70ae6d0da1d03017148aa85762d880cc54940&v=4",
+        "url": "https://github.com/alieeahmadi08"
+    },
+    {
+        "login": "trinhminhtriet",
+        "name": "Triet Trinh",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1650997?u=7b5fb147664a0029b81a107ac499ab0c43f6b26b&v=4",
+        "url": "https://github.com/trinhminhtriet"
+    },
+    {
+        "login": "Fatemehkiani2002",
+        "name": "elena",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/162556275?u=d331d837b5a5e4caee780295a7dac7a745b38b19&v=4",
+        "url": "https://github.com/Fatemehkiani2002"
     }
 ]
