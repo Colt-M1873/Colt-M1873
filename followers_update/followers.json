@@ -566,7 +566,7 @@
     {
         "login": "samarjitsahoo",
         "name": "Samarjit Sahoo",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/145245473?u=a71f78619c91e557f818685481e6515addeaaaec&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/145245473?u=89751dd544468c4b3b073a311dcf0babae7a9712&v=4",
         "url": "https://github.com/samarjitsahoo"
     },
     {
@@ -700,5 +700,11 @@
         "name": "Santiago Canepa",
         "avatarUrl": "https://avatars.githubusercontent.com/u/125301263?u=aa27052695ce97f222795de8b0c81d0812f01a84&v=4",
         "url": "https://github.com/santiagocanepa"
+    },
+    {
+        "login": "meliksahyorulmazlar",
+        "name": "Meliksah Yorulmazlar",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/141827156?v=4",
+        "url": "https://github.com/meliksahyorulmazlar"
     }
 ]
