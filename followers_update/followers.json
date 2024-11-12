@@ -636,10 +636,10 @@
         "url": "https://github.com/hhdst"
     },
     {
-        "login": "Bear-Frost",
+        "login": "zshaian",
         "name": "Frost",
         "avatarUrl": "https://avatars.githubusercontent.com/u/81682916?u=faa9770e764631b7b7fa5e0e9b16a68155a6cbb6&v=4",
-        "url": "https://github.com/Bear-Frost"
+        "url": "https://github.com/zshaian"
     },
     {
         "login": "danialtorkinezhad",
@@ -700,11 +700,5 @@
         "name": "Meliksah Yorulmazlar",
         "avatarUrl": "https://avatars.githubusercontent.com/u/141827156?v=4",
         "url": "https://github.com/meliksahyorulmazlar"
-    },
-    {
-        "login": "byigitt",
-        "name": "bar\u0131\u015f",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/137426514?u=d3d58fbdfe196f47153fbc0c500280e25a6175dd&v=4",
-        "url": "https://github.com/byigitt"
     }
 ]
