@@ -636,12 +636,6 @@
         "url": "https://github.com/hhdst"
     },
     {
-        "login": "zshaian",
-        "name": "Frost",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/81682916?u=faa9770e764631b7b7fa5e0e9b16a68155a6cbb6&v=4",
-        "url": "https://github.com/zshaian"
-    },
-    {
         "login": "danialtorkinezhad",
         "name": "Danial",
         "avatarUrl": "https://avatars.githubusercontent.com/u/176236970?u=63f9b3fa647c73e41ec09e2fa771715f7c4505c2&v=4",
@@ -700,5 +694,11 @@
         "name": "Kostas",
         "avatarUrl": "https://avatars.githubusercontent.com/u/46938390?u=c1c94de8e689cc9f360e470fd3d8f4c746bba081&v=4",
         "url": "https://github.com/Kos-M"
+    },
+    {
+        "login": "DragonLee321",
+        "name": "Golden Dragon",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/155573135?u=0b7a8e18e5886421f8d9d9e1f4d7ed97b766391f&v=4",
+        "url": "https://github.com/DragonLee321"
     }
 ]
