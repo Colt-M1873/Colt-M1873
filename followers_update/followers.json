@@ -354,12 +354,6 @@
         "url": "https://github.com/tonic-6101"
     },
     {
-        "login": "trendy0413",
-        "name": "It\u2019s up to us to define success.",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/114677824?u=02b1ea79682e4f5938e30e802c788c021b140d8c&v=4",
-        "url": "https://github.com/trendy0413"
-    },
-    {
         "login": "Julius-Hamilton",
         "name": "Julius",
         "avatarUrl": "https://avatars.githubusercontent.com/u/127188516?u=169088bd119e40f3dd8c0ce4b08bd1ddf68824b8&v=4",
@@ -718,5 +712,11 @@
         "name": null,
         "avatarUrl": "https://avatars.githubusercontent.com/u/122649131?u=ed01f26921d8c98ec9c54de3db9568fe88dae0b9&v=4",
         "url": "https://github.com/Yanlry"
+    },
+    {
+        "login": "meliksahyorulmazlar",
+        "name": "Meliksah Yorulmazlar",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/141827156?v=4",
+        "url": "https://github.com/meliksahyorulmazlar"
     }
 ]
