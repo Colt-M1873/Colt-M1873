@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I've acquired a new superpower</div>
-                                <div class="date">10 Jan 2025</div>
+                                <div class="title">The Illustrated Guide to a PhD</div>
+                                <div class="date">12 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Is XYplorer really written in VB6?</div>
-                                <div class="date">7 Jan 2025</div>
+                                <div class="title">Why I Chose Common Lisp</div>
+                                <div class="date">12 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Portals and Quake</div>
-                                <div class="date">10 Jan 2025</div>
+                                <div class="title">Kenney.nl: Free Game Assets</div>
+                                <div class="date">12 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Common misconceptions about the complexity in robotics vs. AI (2024)</div>
-                                <div class="date">7 Jan 2025</div>
+                                <div class="title">Phi 4 available on Ollama</div>
+                                <div class="date">9 Jan 2025</div>
                             </div>
                         </div>
                     </section>
