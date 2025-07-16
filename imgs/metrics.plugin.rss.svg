@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LLM Inevitabilism</div>
-                                <div class="date">15 Jul 2025</div>
+                                <div class="title">Cloudflare 1.1.1.1 Incident on July 14, 2025</div>
+                                <div class="date">16 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple's MLX adding CUDA support</div>
-                                <div class="date">14 Jul 2025</div>
+                                <div class="title">Shipping WebGPU on Windows in Firefox 141</div>
+                                <div class="date">16 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LIGO detects most massive black hole merger to date</div>
-                                <div class="date">14 Jul 2025</div>
+                                <div class="title">I'm Switching to Python and Actually Liking It</div>
+                                <div class="date">16 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Kiro: A new agentic IDE</div>
-                                <div class="date">14 Jul 2025</div>
+                                <div class="title">Tilck: A Tiny Linux-Compatible Kernel</div>
+                                <div class="date">16 Jul 2025</div>
                             </div>
                         </div>
                     </section>
