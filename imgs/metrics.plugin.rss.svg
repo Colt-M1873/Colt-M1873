@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</div>
-                                <div class="date">6 Aug 2025</div>
+                                <div class="title">40 Years of the Amiga, from Commodore – By Paul Lefebvre</div>
+                                <div class="date">7 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I gave the AI arms and legs then it rejected me</div>
-                                <div class="date">6 Aug 2025</div>
+                                <div class="title">Cracking the Vault: How we found zero-day flaws in HashiCorp Vault</div>
+                                <div class="date">7 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Open models by OpenAI</div>
-                                <div class="date">5 Aug 2025</div>
+                                <div class="title">Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs</div>
+                                <div class="date">7 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">HTML Is Dead, Long Live HTML</div>
+                                <div class="title">Claude Code IDE integration for Emacs</div>
                                 <div class="date">6 Aug 2025</div>
                             </div>
                         </div>
