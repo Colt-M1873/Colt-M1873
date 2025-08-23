@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Io_uring, kTLS and Rust for zero syscall HTTPS server</div>
-                                <div class="date">22 Aug 2025</div>
+                                <div class="title">I'm too dumb for Zig's new IO interface</div>
+                                <div class="date">23 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">It's Not Wrong that " ".length == 7</div>
-                                <div class="date">22 Aug 2025</div>
+                                <div class="title">World Wide Lightning Location Network</div>
+                                <div class="date">23 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DeepSeek-v3.1</div>
-                                <div class="date">21 Aug 2025</div>
+                                <div class="title">Show HN: OctaneDB – Fast, Open-Source Vector Database for Python</div>
+                                <div class="date">23 Aug 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Control shopping cart wheels with your phone (2021)</div>
+                                <div class="title">Show HN: JavaScript-free (X)HTML Includes</div>
                                 <div class="date">22 Aug 2025</div>
                             </div>
                         </div>
