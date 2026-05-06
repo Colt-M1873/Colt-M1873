@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Async Rust never left the MVP state</div>
-                                <div class="date">5 May 2026</div>
+                                <div class="title">Agents can now create Cloudflare accounts, buy domains, and deploy</div>
+                                <div class="date">6 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bun is being ported from Zig to Rust</div>
-                                <div class="date">5 May 2026</div>
+                                <div class="title">StarFighter 16-Inch</div>
+                                <div class="date">6 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Empty Screenings – Finds AMC movie screenings with few or no tickets sold</div>
-                                <div class="date">5 May 2026</div>
+                                <div class="title">CARA 2.0 – “I Built a Better Robot Dog”</div>
+                                <div class="date">4 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Should I Run Plain Docker Compose in Production in 2026?</div>
-                                <div class="date">30 Apr 2026</div>
+                                <div class="title">Batteries Not Included, or Required, for These Smart Home Sensors</div>
+                                <div class="date">3 May 2026</div>
                             </div>
                         </div>
                     </section>
