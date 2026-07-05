@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The bottleneck might be the air in the room</div>
-                                <div class="date">4 Jul 2026</div>
+                                <div class="title">Shadcn/UI now defaults to Base UI instead of Radix</div>
+                                <div class="date">5 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Astrophysicists Puzzle over Webb's New Universe</div>
-                                <div class="date">4 Jul 2026</div>
+                                <div class="title">If you're a button, you have one job</div>
+                                <div class="date">5 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mir Books – Books from the Soviet Era</div>
-                                <div class="date">30 Jun 2026</div>
+                                <div class="title">Programmers need to start meditating now</div>
+                                <div class="date">5 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Agentic coding notes from Galapagos Island</div>
+                                <div class="title">Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable</div>
                                 <div class="date">4 Jul 2026</div>
                             </div>
                         </div>
